@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+__pycache__
+
+.coverage
+
+build/
+dist/
+galaxy_express.egg-info
+db.sql
+**/__pycache__/*
+.pytest_cache
